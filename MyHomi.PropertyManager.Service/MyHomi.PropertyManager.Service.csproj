@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MuHomi.PropertyManager.Domain.Model\MyHomi.PropertyManager.Domain.Model.csproj" />
     <ProjectReference Include="..\MYHomi.PropertyManager.DataAccess\MyHomi.PropertyManager.DataAccess.csproj" />
+    <ProjectReference Include="..\MyHomi.PropertyManager.Domain.Model\MyHomi.PropertyManager.Domain.Model.csproj" />
     <ProjectReference Include="..\MYHomi.PropertyManager.ViewModel\MyHomi.PropertyManager.ViewModel.csproj" />
   </ItemGroup>
 

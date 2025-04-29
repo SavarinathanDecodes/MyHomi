@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MuHomi.PropertyManager.Domain.Model\MyHomi.PropertyManager.Domain.Model.csproj" />
+    <ProjectReference Include="..\MyHomi.PropertyManager.Domain.Model\MyHomi.PropertyManager.Domain.Model.csproj" />
     <ProjectReference Include="..\MYHomi.PropertyManager.Utility\MyHomi.PropertyManager.Utility.csproj" />
   </ItemGroup>
 

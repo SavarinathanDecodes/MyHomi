@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyHomei.Web", "MyHomei.Web"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PropertyManager", "PropertyManager", "{4858F098-80A9-4D50-AD3A-643C7FA464AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.Service", "MuHomi.PropertyManager.Service\MyHomi.PropertyManager.Service.csproj", "{F2AFB7C4-CE98-4838-91AB-6015B566AD9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.Service", "MyHomi.PropertyManager.Service\MyHomi.PropertyManager.Service.csproj", "{F2AFB7C4-CE98-4838-91AB-6015B566AD9C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.Domain.Model", "MuHomi.PropertyManager.Domain.Model\MyHomi.PropertyManager.Domain.Model.csproj", "{CF726EBA-10FB-4A92-9061-E9EE9AD30D4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.Domain.Model", "MyHomi.PropertyManager.Domain.Model\MyHomi.PropertyManager.Domain.Model.csproj", "{CF726EBA-10FB-4A92-9061-E9EE9AD30D4E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.DataAccess", "MYHomi.PropertyManager.DataAccess\MyHomi.PropertyManager.DataAccess.csproj", "{50CA6DAD-BEF9-4693-BFFA-F582DDF5CEB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.DataAccess", "MyHomi.PropertyManager.DataAccess\MyHomi.PropertyManager.DataAccess.csproj", "{50CA6DAD-BEF9-4693-BFFA-F582DDF5CEB8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.Utility", "MYHomi.PropertyManager.Utility\MyHomi.PropertyManager.Utility.csproj", "{E43A0A4A-FACE-46D9-BBC4-C81B1B294E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.Utility", "MyHomi.PropertyManager.Utility\MyHomi.PropertyManager.Utility.csproj", "{E43A0A4A-FACE-46D9-BBC4-C81B1B294E53}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.ViewModel", "MYHomi.PropertyManager.ViewModel\MyHomi.PropertyManager.ViewModel.csproj", "{6D430B61-4D19-403F-AE9B-75E0B9488C28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHomi.PropertyManager.ViewModel", "MyHomi.PropertyManager.ViewModel\MyHomi.PropertyManager.ViewModel.csproj", "{6D430B61-4D19-403F-AE9B-75E0B9488C28}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoggerManager", "LoggerManager", "{5BD5B6D7-1CBB-4546-BC6C-21D9096FEFB8}"
 EndProject

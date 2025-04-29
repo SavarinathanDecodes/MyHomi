@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MuHomi.PropertyManager.Service\MyHomi.PropertyManager.Service.csproj" />
+    <ProjectReference Include="..\MyHomi.PropertyManager.Service\MyHomi.PropertyManager.Service.csproj" />
     <ProjectReference Include="..\MYHomi.PropertyManager.Utility\MyHomi.PropertyManager.Utility.csproj" />
     <ProjectReference Include="..\MYHomi.PropertyManager.ViewModel\MyHomi.PropertyManager.ViewModel.csproj" />
   </ItemGroup>

@@ -15,3 +15,8 @@
 /MYHomi.PropertyManager.Utility/obj
 /MYHomi.PropertyManager.ViewModel/bin/Debug/net8.0
 /MYHomi.PropertyManager.ViewModel/obj
+/.vs/ProjectEvaluation
+/MyHomi.PropertyManager.Domain.Model/bin/Debug/net8.0
+/MyHomi.PropertyManager.Domain.Model/obj
+/MyHomi.PropertyManager.Service/bin/Debug/net8.0
+/MyHomi.PropertyManager.Service/obj
